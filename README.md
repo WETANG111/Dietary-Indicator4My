@@ -1,6 +1,4 @@
-# Dietary-Indicator4My
-
-# RCT Dietary Quality Index Analysis
+# Dietary-Indicator4My Dataset
 
 ## Project Overview
 
