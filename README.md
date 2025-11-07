@@ -4,6 +4,9 @@
 
 This project analyzes dietary quality in a Randomized Controlled Trial (RCT) comparing two dietary intervention approaches: eating healthy foods ("What" group) versus eating at healthy times ("When" group). The study uses various dietary quality indices (e.g., DII, HEI) to assess changes from baseline to follow-up in both groups, followed by multivariable linear regression analysis adjusting for covariates.
 
+## Related Literature Review
+Latex Link: https://www.overleaf.com/3874187128qwbjvbpvpvrt#16c908
+
 ## Study Design
 
 - **Study Type**: Randomized Controlled Trial (RCT)
